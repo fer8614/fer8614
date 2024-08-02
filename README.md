@@ -58,13 +58,13 @@ I'm in love with communication and technology.
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 
-<!--
+
 ## 📈 GitHub Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lagaress&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fer8614&show_icons=true&theme=tokyonight)
 
 ## ⌨️ Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lagaress&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fer8614&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
+<!--
 **fer8614/fer8614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
