@@ -18,7 +18,7 @@ I'm in love with communication and technology.
 </p>
 
 ## 📋 Current Goals
-- [ ] #Short-Term Goals (6 months - 1 year):
+- [ ] # Short-Term Goals (6 months - 1 year):
 - Improve Technical Skills:
 
 Master the fundamentals of HTML, CSS, and JavaScript.
