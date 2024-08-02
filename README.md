@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<img src="file:///home/ye-fer/Descargas/wepik-simple-business-twitter-header-20240802200627ngmK.png"
+      alt="Markdown monster icon"
+      style="float: left; margin-right: 10 px;"/>
+
 <!--
 **fer8614/fer8614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
