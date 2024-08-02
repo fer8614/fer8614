@@ -18,7 +18,7 @@ I'm in love with communication and technology.
 </p>
 
 ## 📋 Current Goals
-# Short-Term Goals (6 months - 1 year):
+## Short-Term Goals (6 months - 1 year):
 - [ ] Improve Technical Skills:
 - Learn a popular front-end framework such as React, Angular, or Vue.js.
 - Gain experience with a back-end environment, such as Node.js, Django, or Ruby on Rails.
@@ -28,7 +28,7 @@ I'm in love with communication and technology.
 - [ ] Develop Good Coding Practices:
 - Adopt good development practices like version control with Git.
 - Get familiar with agile methodologies and collaboration tools like Jira or Trello.
-# Medium-Term Goals (1 - 3 years):
+## Medium-Term Goals (1 - 3 years):
 - [ ] Specialization and Certifications:
 - Obtain relevant certifications, such as Certified JavaScript Developer, AWS Certified Developer, etc.
 - Specialize in an area of interest, whether it’s front-end, back-end, or full stack.
@@ -37,7 +37,7 @@ I'm in love with communication and technology.
 - Learn and apply software design patterns and architecture.
 - [ ] Expand Knowledge in DevOps:
 - Get familiar with DevOps tools and practices, such as Docker, Kubernetes, and CI/CD.
-# Long-Term Goals (3 - 5 years and beyond):
+## Long-Term Goals (3 - 5 years and beyond):
 - [ ] Take on Leadership Roles:
 - Aim for roles like Senior Developer, Lead Developer, or Tech Lead.
 - Develop mentoring skills to support junior developers and foster a continuous learning environment.
