@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="file:///home/ye-fer/Descargas/wepik-simple-business-twitter-header-20240802200627ngmK.png"
+<img src="https://github.com/user-attachments/assets/b7eb3357-9040-4faa-afd7-2641acd14080"
       alt="Markdown monster icon"
       style="float: left; margin-right: 10 px;"/>
 
@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![wepik-simple-business-twitter-header-20240802200627ngmK](https://github.com/user-attachments/assets/b7eb3357-9040-4faa-afd7-2641acd14080)
