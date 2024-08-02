@@ -1,4 +1,4 @@
-## Hi! I'm Yesid Fernando Cepeda B. 👋
+<h2 aling: "center">Hi! I'm Yesid Fernando Cepeda B. 👋</h2>
 
 <img src="https://github.com/user-attachments/assets/b7eb3357-9040-4faa-afd7-2641acd14080"
       alt="Markdown monster icon"
