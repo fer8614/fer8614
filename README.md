@@ -19,7 +19,7 @@ My mission is to connect with like-minded professionals and continuously improve
 </p>
 
 ## 📋 Current Goals
-- [ ] Participate in team projects within the company or contribute to open-source projects.
+- [ ] Participate or contribute to open-source projects.
 - [ ] Obtain relevant certifications, such as Certified JavaScript Developer, AWS Certified Developer, etc.
 - [ ] Participate in coding challenges on platforms like HackerRank or LeetCode.
 - [ ] Learn and apply software design patterns and architecture.
