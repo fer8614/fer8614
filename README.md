@@ -19,34 +19,14 @@ My mission is to connect with like-minded professionals and continuously improve
 </p>
 
 ## 📋 Current Goals
-### Short-Term Goals (6 months - 1 year):
-- [ ] Improve Technical Skills:
-- Learn a popular front-end framework such as React, Angular, or Vue.js.
-- Gain experience with a back-end environment, such as Node.js, Django, or Ruby on Rails.
-- [ ] Contribute to Real Projects:
-- Participate in team projects within the company or contribute to open-source projects.
-- Complete personal projects to build a solid portfolio.
-- [ ] Develop Good Coding Practices:
-- Adopt good development practices like version control with Git.
-- Get familiar with agile methodologies and collaboration tools like Jira or Trello.
-### Medium-Term Goals (1 - 3 years):
-- [ ] Specialization and Certifications:
-- Obtain relevant certifications, such as Certified JavaScript Developer, AWS Certified Developer, etc.
-- Specialize in an area of interest, whether it’s front-end, back-end, or full stack.
-- [ ] Improve Problem-Solving Skills:
-- Participate in coding challenges on platforms like HackerRank or LeetCode.
-- Learn and apply software design patterns and architecture.
-- [ ] Expand Knowledge in DevOps:
-- Get familiar with DevOps tools and practices, such as Docker, Kubernetes, and CI/CD.
-### Long-Term Goals (3 - 5 years and beyond):
-- [ ] Take on Leadership Roles:
-- Aim for roles like Senior Developer, Lead Developer, or Tech Lead.
-- Develop mentoring skills to support junior developers and foster a continuous learning environment.
-- [ ] Contribute to the Community:
-- Actively participate in developer communities, attend and speak at conferences, and contribute to blogs or technical forums.
-- [ ] Stay Up-to-Date with New Technologies:
-- Continue learning and adapting to new technologies and trends in web development.
-- Explore emerging areas like artificial intelligence, blockchain, or augmented/virtual reality if they are of interest.
+- [ ] Participate in team projects within the company or contribute to open-source projects.
+- [ ] Obtain relevant certifications, such as Certified JavaScript Developer, AWS Certified Developer, etc.
+- [ ] Participate in coding challenges on platforms like HackerRank or LeetCode.
+- [ ] Learn and apply software design patterns and architecture.
+- [ ] Actively participate in developer communities, attend and speak at conferences, and contribute to blogs or technical forums.
+- [ ] Continue learning and adapting to new technologies and trends in web development.
+- [ ] Explore emerging areas like artificial intelligence, blockchain, or augmented/virtual reality if they are of interest.
+- [ ] Get familiar with DevOps tools and practices, such as Docker, Kubernetes, and CI/CD.
 
 ## 💼 Technical Skills   
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
