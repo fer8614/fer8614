@@ -4,8 +4,9 @@
       alt="Markdown monster icon"
       style="float: left; margin-right: 10 px;"/>
 
-I'm in love with communication and technology. 
-  I love solving problems and creating innovative solutions. I'm an enthusiastic about learning new things and meeting new people. Currently I'm finishing my Computer Science Degree at University of Cadiz. 
+I am a dedicated and enthusiastic full stack web developer with a passion for connecting with people and continuously learning about new technologies. With experience in building dynamic and efficient web applications, I enjoy the opportunity to contribute to projects that make a difference.
+
+My mission is to connect with like-minded professionals and continuously improve my skills by staying up to date with the latest trends and technologies in web development.
 
   ## 📩 Connect
 * Do you have any question or project to work together? Don't hesitate! Coffee's on me ☕.
@@ -59,6 +60,7 @@ I'm in love with communication and technology.
 
 ## ⌨️ Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fer8614&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
+
 <!--
 **fer8614/fer8614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
