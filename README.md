@@ -23,7 +23,7 @@ My mission is to connect with like-minded professionals and continuously improve
 - [ ] Participate in coding challenges on platforms like HackerRank or LeetCode.
 - [ ] Learn and apply software design patterns and architecture.
 - [ ] Actively participate in developer communities, attend and speak at conferences, and contribute to blogs or technical forums.
-- [ ] Continue learning and adapting to new technologies and trends in web development.
+- [ ] Continue learning and adapting to new technologies and trends in development.
 - [ ] Explore emerging areas like artificial intelligence, blockchain, or augmented/virtual reality if they are of interest.
 - [ ] Get familiar with DevOps tools and practices, such as Docker, Kubernetes, and CI/CD.
 
