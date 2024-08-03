@@ -24,7 +24,7 @@ My mission is to connect with like-minded professionals and continuously improve
 - [ ] Learn and apply software design patterns and architecture.
 - [ ] Actively participate in developer communities, attend and speak at conferences, and contribute to blogs or technical forums.
 - [ ] Continue learning and adapting to new technologies and trends in development.
-- [ ] Explore emerging areas like artificial intelligence, blockchain, or augmented/virtual reality if they are of interest.
+- [ ] Explore emerging areas like artificial intelligence, blockchain, or augmented/virtual reality.
 - [ ] Get familiar with DevOps tools and practices, such as Docker, Kubernetes, and CI/CD.
 
 ## 💼 Technical Skills   
