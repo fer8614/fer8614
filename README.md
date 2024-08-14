@@ -1,6 +1,7 @@
+
 <h2 align="center">Hi! I'm Yesid Fernando Cepeda B. 👋</h2>
 
-<img src="https://github.com/user-attachments/assets/b7eb3357-9040-4faa-afd7-2641acd14080"
+<img src="https://github.com/user-attachments/assets/f65e28f6-cb8a-4c37-bf7c-e6d86aca8a1d"
       alt="Markdown monster icon"
       style="float: left; margin-right: 10 px;"/>
 
