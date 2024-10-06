@@ -22,7 +22,7 @@ My mission is to connect with like-minded professionals and continuously improve
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Tailwind css" src="https://img.shields.io/badge/Tailwind_CSS-grey?style=flat-square&logo=tailwind-css&logoColor=38B2AC" />
-  <img att="Zed Industries" src="![Zed Industries Badge](https://img.shields.io/badge/Zed%20Industries-084CCF?logo=zedindustries&logoColor=fff&style=flat)"/>
+  <img att="Zed Industries" src="https://img.shields.io/badge/Zed%20Industries-084CCF?logo=zedindustries&logoColor=fff&style=flat"/>
   <img alt="NextJs" src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
