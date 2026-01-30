@@ -165,7 +165,7 @@ I leverage an **AI-native workflow** to accelerate development cycles and delive
 | 🏫 **BYU-Pathway Worldwide** | Bachelor's in Software Development | 2025 - 2027 |
 | � **Platzi** | AI Software Engineer Career Path | 2025 - 2026 |
 | 🟢 **Platzi** | Programming & Software Development | 2024 - 2025 |
-| 🔵 **IBM** | Full-Stack Developer Certificate | 2022 |
+| 🏛️ **Universidad Santiago de Cali** | Specialist in Comprehensive Logistics Management | 2018 - 2020 |
 
 </div>
 
