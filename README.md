@@ -103,15 +103,16 @@ I'm a **passionate Full Stack Web Developer** from Colombia 🇨🇴 with a miss
 <div align="center">
   
   <!-- Stats Cards Row -->
-  <img width="49%" src="https://github-readme-stats.zohan.tech/api?username=fer8614&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=fer8614&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fer8614&theme=tokyonight" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fer8614&theme=tokyonight&utcOffset=-5" alt="Productive Time"/>
   
 </div>
 
 <div align="center">
   
   <!-- Languages Card -->
-  <img width="40%" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=fer8614&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fer8614&theme=tokyonight" alt="Repos per Language"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fer8614&theme=tokyonight" alt="Most Commit Language"/>
   
 </div>
 
