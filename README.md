@@ -103,15 +103,15 @@ I'm a **passionate Full Stack Web Developer** from Colombia 🇨🇴 with a miss
 <div align="center">
   
   <!-- Stats Cards Row -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fer8614&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fer8614&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fer8614&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=86400" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=fer8614&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
   
 </div>
 
 <div align="center">
   
   <!-- Languages Card -->
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fer8614&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fer8614&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=86400" alt="Top Languages"/>
   
 </div>
 
@@ -129,7 +129,7 @@ I'm a **passionate Full Stack Web Developer** from Colombia 🇨🇴 with a miss
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=fer8614&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=fer8614&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
