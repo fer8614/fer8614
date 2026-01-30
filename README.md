@@ -6,7 +6,7 @@
 <!-- Typing Effect -->
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Specialist;TypeScript+%7C+React+%7C+Node.js;Always+Learning+New+Technologies+%F0%9F%93%9A)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=AI+Software+Developer+%26+Automation+Specialist+%F0%9F%A4%96;Building+Agentic+Workflows+%26+LLM+Integrations;Full+Stack+%7C+N8N+%7C+RAG+%7C+Prompt+Engineering;Ex-Project+Manager+with+Strategic+Vision+%F0%9F%8E%AF)](https://git.io/typing-svg)
   
 </div>
 
@@ -26,14 +26,16 @@
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-I'm a **passionate Full Stack Web Developer** from Colombia 🇨🇴 with a mission to build dynamic, efficient, and user-friendly web applications.
+I'm an **AI Software Developer & Automation Specialist** based in Oregon, USA 🇺🇸 Originally from Colombia 🇨🇴
 
-- 🔭 Currently working on **MERN Stack Projects**
-- 🌱 Learning **Docker, Kubernetes & Cloud Technologies**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, TypeScript, MongoDB**
-- ⚡ Fun fact: **I love coffee ☕ and coding at night 🌙**
-- 🎯 Goal: **Contribute to open source and help the developer community**
+I leverage an **AI-native workflow** to accelerate development cycles and deliver robust, scalable code faster. My focus has shifted from simply building web apps to **architecting intelligent ecosystems**.
+
+- 🤖 Building **Agentic Workflows & LLM Integrations**
+- � Automating with **N8N, Webhooks & API Integrations**
+- 🧠 Implementing **RAG, Prompt Engineering & AI-First methodologies**
+- � Core Dev: **React, TypeScript, Python, Node.js, PostgreSQL**
+- 🛠️ Tools: **Windsurf, Cursor, Claude Code, Docker, Git**
+- 🎯 Strategic Edge: **Ex-Project Manager** - I design systems that solve real business problems
 
 <br clear="right"/>
 
@@ -63,35 +65,36 @@ I'm a **passionate Full Stack Web Developer** from Colombia 🇨🇴 with a miss
 
 <div align="center">
 
+### 🤖 AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🛠️ Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🛠️ Tools & AI IDEs
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge&logo=codeium&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 
 </div>
 
@@ -152,15 +155,31 @@ I'm a **passionate Full Stack Web Developer** from Colombia 🇨🇴 with a miss
 
 ---
 
+<!-- Education Section -->
+## � Education & Certifications
+
+<div align="center">
+
+| Institution | Program | Period |
+|-------------|---------|--------|
+| 🏫 **BYU-Pathway Worldwide** | Bachelor's in Software Development | 2025 - 2027 |
+| � **Platzi** | AI Software Engineer Career Path | 2025 - 2026 |
+| 🟢 **Platzi** | Programming & Software Development | 2024 - 2025 |
+| 🔵 **IBM** | Full-Stack Developer Certificate | 2022 |
+
+</div>
+
+---
+
 <!-- Goals Section -->
 ## 🎯 2026 Goals
 
-- [ ] 🚀 Contribute to **50+ Open Source Projects**
-- [ ] 📚 Master **Docker & Kubernetes**
-- [ ] 🎤 Speak at a **Tech Conference**
-- [ ] ✍️ Write **Technical Blog Posts**
-- [ ] 🤖 Learn **AI/ML Fundamentals**
-- [ ] ☁️ Get **AWS Cloud Certification**
+- [ ] 🤖 Build **Production-Ready AI Agents**
+- [ ] � Create **10+ N8N Automation Workflows**
+- [ ] 📚 Complete **BYU Software Development Degree**
+- [ ] ✍️ Write **Technical Blog Posts on AI Development**
+- [ ] 🌐 Contribute to **Open Source AI Projects**
+- [ ] ☁️ Deploy **Scalable LLM Applications**
 
 ---
 
